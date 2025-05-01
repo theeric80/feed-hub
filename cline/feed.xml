@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cline Blog</title>
+  <link href="https://cline.bot/blog"/>
+  <updated>2025-04-30T18:30:02Z</updated>
+  <id>urn:uuid:cline-blog-feed</id>
+  <author>
+    <name>Cline Team</name>
+  </author>
+  <entry>
+    <title>Secure AI Adoption is Sponsored AI Adoption</title>
+    <link href="https://cline.bot/blog#secure-ai-adoption"/>
+    <id>urn:uuid:secure-ai-adoption</id>
+    <updated>2025-04-30T18:30:02Z</updated>
+    <summary>In today's rapidly evolving technological landscape, artificial intelligence has transformed from a futuristic concept to an essential productivity tool for software engineers...</summary>
+  </entry>
+  <entry>
+    <title>What Model Should I Use in Cline?</title>
+    <link href="https://cline.bot/blog#model-selection"/>
+    <id>urn:uuid:model-selection</id>
+    <updated>2025-04-28T18:30:02Z</updated>
+    <summary>One of the most common questions developers ask when getting started with Cline is: "Which AI model should I use?"...</summary>
+  </entry>
+  <entry>
+    <title>Double-clicking on toggleable .clinerules (+ self-improving Cline)</title>
+    <link href="https://cline.bot/blog#toggleable-clinerules"/>
+    <id>urn:uuid:toggleable-clinerules</id>
+    <updated>2025-04-22T18:30:02Z</updated>
+    <summary>As Product Marketing Manager at Cline, I often experiment with ways to fine-tune Cline's behavior for different tasks...</summary>
+  </entry>
+  <entry>
+    <title>Cline v3.13: Toggleable .clinerules, Slash Commands & Previous Message Editing</title>
+    <link href="https://cline.bot/blog#cline-v3.13"/>
+    <id>urn:uuid:cline-v3.13</id>
+    <updated>2025-04-19T18:30:02Z</updated>
+    <summary>Tired of manually managing context instructions for different tasks? Wish you could quickly branch explorations or fix a flawed prompt without starting over?...</summary>
+  </entry>
+  <entry>
+    <title>The Fighter Pilot's Guide to Software Strategy</title>
+    <link href="https://cline.bot/blog#fighter-pilot-strategy"/>
+    <id>urn:uuid:fighter-pilot-strategy</id>
+    <updated>2025-04-18T18:30:02Z</updated>
+    <summary>AI companies are operating in arguably the most hotly contested market in human history...</summary>
+  </entry>
+  <entry>
+    <title>Cline's Context Window Explained: Maximize Performance, Minimize Cost</title>
+    <link href="https://cline.bot/blog#context-window-explained"/>
+    <id>urn:uuid:context-window-explained</id>
+    <updated>2025-04-17T18:30:02Z</updated>
+    <summary>Ever wondered why a simple "Hi" to Cline might seem to use more resources than expected?...</summary>
+  </entry>
+  <entry>
+    <title>Unlocking Persistent Memory: How Cline's new_task Tool Eliminates Context Window Limitations</title>
+    <link href="https://cline.bot/blog#persistent-memory"/>
+    <id>urn:uuid:persistent-memory</id>
+    <updated>2025-04-15T18:30:02Z</updated>
+    <summary>Context windows have been both the power and limitation of AI coding assistants...</summary>
+  </entry>
+  <entry>
+    <title>SICP Revisited: Writing Code for People and AI Agents</title>
+    <link href="https://cline.bot/blog#sicp-revisited"/>
+    <id>urn:uuid:sicp-revisited</id>
+    <updated>2025-04-15T18:30:02Z</updated>
+    <summary>Since SICP, it's been a maxim of software engineering that "Programs must be written for people to read, and only incidentally for machines to execute."...</summary>
+  </entry>
+  <entry>
+    <title>Cline v3.12: Faster Diff Edits, Model Favorites, and More</title>
+    <link href="https://cline.bot/blog#cline-v3.12"/>
+    <id>urn:uuid:cline-v3.12</id>
+    <updated>2025-04-12T18:30:02Z</updated>
+    <summary>We're excited to announce the release of Cline v3.12, packed with diff edit improvements, model favorites, new auto-approve options, and more...</summary>
+  </entry>
+  <entry>
+    <title>Inside Cline's Framework for Optimizing Context, Maintaining Narrative Integrity, and Enabling Smarter AI</title>
+    <link href="https://cline.bot/blog#context-optimization"/>
+    <id>urn:uuid:context-optimization</id>
+    <updated>2025-04-11T18:30:02Z</updated>
+    <summary>Effective context management is the backbone of productive collaboration with AI coding assistants...</summary>
+  </entry>
+</feed>
